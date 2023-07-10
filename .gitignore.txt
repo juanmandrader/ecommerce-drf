@@ -1,0 +1,3 @@
+django_rest/
+
+Notas django rest Developer.pe.docx
